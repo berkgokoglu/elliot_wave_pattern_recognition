@@ -8,3 +8,6 @@
 
 *.csv
 *.pdf
+
+# Sensitive Data
+check_binance_api.ipynb
