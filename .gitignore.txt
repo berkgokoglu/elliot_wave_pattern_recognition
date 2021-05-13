@@ -1,0 +1,10 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Editors
+.vscode/
+
+# Data Formats
+
+*.csv
+*.pdf
